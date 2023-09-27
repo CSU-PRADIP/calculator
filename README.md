@@ -2,7 +2,7 @@
 This program is a developed calculator using HTML, CSS and Javascript
 
 Program Structure:
-
+ 
 calculator
 ├── README.md
 └── src
