@@ -4,7 +4,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #e3f9ff;
 }
 
 .calculator {
@@ -41,7 +41,7 @@ button {
 }
 
 #operator {
-    background-color: #ec9340;
+    background-color: #cc6300;
     color: black;
 }
 
